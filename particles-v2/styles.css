@@ -1,0 +1,17 @@
+body, html {
+  overflow: hidden;
+  margin: 0;
+}
+
+#background {
+  position: relative;
+  z-index: 0;
+}
+
+#foreground {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 1;
+}
+/*make other styles as you want*/

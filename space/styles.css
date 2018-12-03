@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+#background {
+  background: linear-gradient(to top right, #ffffff 0%, #070707 100%);
+}
+
+img {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: auto;
+}
+/*make other styles as you want*/
